@@ -192,9 +192,9 @@
             <div>
                 <h1>📄 Requisition Package – Project Bid</h1>
                 <div class="sub">
-                    <strong>Reference:RFQ-073455T77U3538899221</strong> RFQ-<?php echo rand(1000000000, 9999999999); ?> &nbsp;·&nbsp;
-                    <strong>Issued:Oct 13, 2026</strong> <?php echo date('M j, Y'); ?> &nbsp;·&nbsp;
-                    <strong>Deadline:Oct 30, 2026</strong> <?php echo date('M j, Y', strtotime('+4 days')); ?>
+                    <strong>Reference:</strong> RFQ-<?php echo rand(1000000000, 9999999999); ?> &nbsp;·&nbsp;
+                    <strong>Issued:</strong> <?php echo date('M j, Y'); ?> &nbsp;·&nbsp;
+                    <strong>Deadline:</strong> <?php echo date('M j, Y', strtotime('+4 days')); ?>
                 </div>
                 <div class="badge">🔒 Confidential – For Invited Bidders</div>
             </div>
